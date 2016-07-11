@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@color/lightgrey">
+
+
+    <ca.clzhonguwaterloo.jsketch.JSButton
+        android:layout_width="3px"
+        android:layout_height="@dimen/Thicknessheight"
+        android:layout_marginLeft="@dimen/Thicknessgap"
+        android:id="@+id/Thickness1IB"
+
+        />
+    <ca.clzhonguwaterloo.jsketch.JSButton
+        android:layout_width="8px"
+        android:layout_height="@dimen/Thicknessheight"
+        android:layout_marginLeft="@dimen/Thicknessgap"
+        android:id="@+id/Thickness2IB"
+
+        />
+    <ca.clzhonguwaterloo.jsketch.JSButton
+        android:layout_width="13px"
+        android:layout_height="@dimen/Thicknessheight"
+        android:layout_marginLeft="@dimen/Thicknessgap"
+        android:id="@+id/Thickness3IB"
+
+        />
+    <ca.clzhonguwaterloo.jsketch.JSButton
+        android:layout_width="18px"
+        android:layout_height="@dimen/Thicknessheight"
+        android:layout_marginLeft="@dimen/Thicknessgap"
+        android:id="@+id/Thickness4IB"
+
+        />
+    <ca.clzhonguwaterloo.jsketch.JSButton
+        android:layout_width="23px"
+        android:layout_height="@dimen/Thicknessheight"
+        android:id="@+id/Thickness5IB"
+        android:layout_marginLeft="@dimen/Thicknessgap"
+        />
+
+
+</LinearLayout>

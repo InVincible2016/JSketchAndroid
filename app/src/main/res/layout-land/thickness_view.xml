@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_weight="1"
+    android:layout_height="wrap_content"
+    android:background="@color/lightgrey">
+
+
+    <ca.clzhonguwaterloo.jsketch.JSButton
+        android:layout_width="@dimen/ThicknessheightV"
+        android:layout_height="3px"
+        android:layout_marginTop="@dimen/ThicknessgapV"
+        android:id="@+id/Thickness1IB"
+
+        />
+    <ca.clzhonguwaterloo.jsketch.JSButton
+        android:layout_width="@dimen/ThicknessheightV"
+        android:layout_height="8px"
+        android:layout_marginTop="@dimen/ThicknessgapV"
+        android:id="@+id/Thickness2IB"
+
+        />
+    <ca.clzhonguwaterloo.jsketch.JSButton
+        android:layout_width="@dimen/ThicknessheightV"
+        android:layout_height="13px"
+        android:layout_marginTop="@dimen/ThicknessgapV"
+        android:id="@+id/Thickness3IB"
+
+        />
+    <ca.clzhonguwaterloo.jsketch.JSButton
+        android:layout_width="@dimen/ThicknessheightV"
+        android:layout_height="18px"
+        android:layout_marginTop="@dimen/ThicknessgapV"
+        android:id="@+id/Thickness4IB"
+
+        />
+    <ca.clzhonguwaterloo.jsketch.JSButton
+        android:layout_width="@dimen/ThicknessheightV"
+        android:layout_height="23px"
+        android:id="@+id/Thickness5IB"
+        android:layout_marginTop="@dimen/ThicknessgapV"
+        />
+
+
+</LinearLayout>
